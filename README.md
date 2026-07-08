@@ -64,4 +64,4 @@ print(result['prediction'])  # CONFIRMED
 
 ---
 
-**Built for NASA Space Apps Challenge** 🚀
+**Built for NASA Space Apps Challenge 2025** 🚀
