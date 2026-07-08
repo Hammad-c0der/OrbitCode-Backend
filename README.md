@@ -10,7 +10,7 @@ Physics-informed AI classifier for exoplanet candidates using NASA Kepler data. 
 
 ```bash
 # Install
-git clone <repo-url>
+git clone https://github.com/Hammad-c0der/OrbitCode-Backend.git
 cd backend
 pip install -r requirements.txt
 
